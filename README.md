@@ -1,5 +1,7 @@
 Desafios Target - Desafios de um etapa de incrição de candidato (Respostas no final, após as perguntas)
 
+OBS: Códigos executados em JAVA
+
 1) Observe o trecho de código abaixo:
 
 int INDICE = 13, SOMA = 0, K = 0;
