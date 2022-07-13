@@ -1,0 +1,13 @@
+  S0 + 110t = S0 - 80t
+  0 + 110t = 100 - 80t
+  190t = 100
+  t = 100/190 = 0.53h = aprox 32min
+
+Considerando o caminhão ter parado nos dois pedágios:
+  0.61 + 0.16 (10 min de pedágio) = 0.69 = 41,4min
+Carro terá percorrido aprox 76km
+Caminhão terá percorrido aprox 24km
+
+De qualquer maneira o caminhão e o carro estarão na mesma distância de Ribeirão Preto, pois um está saindo
+de Ribeirão com destino Franca e o outro saindo de Franca com destino Ribeirão. Logo quando se cruzarem
+estarão com a mesma distância de Ribeirão Preto.
