@@ -1,4 +1,4 @@
-Desafios Target - Apenas perguntas
+Desafios Target - Desafios de um etapa de incrição de candidato (Respostas no final, após as perguntas)
 
 1) Observe o trecho de código abaixo:
 
@@ -73,3 +73,10 @@ IMPORTANTE:
 a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 
 b) Evite usar funções prontas, como, por exemplo, reverse;
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Respostas:
+
+1) 91
+2)
