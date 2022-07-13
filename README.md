@@ -88,5 +88,5 @@ c) 0, 1, 4, 9, 16, 25, 36, 49
 d) 4, 16, 36, 64, 100
 e) 1, 1, 2, 3, 5, 8, 13
 f) 2,10, 12, 16, 17, 18, 19, 20
-4)
+4) [Desafio 4](https://github.com/rafaguerino/teste-Target/blob/main/Desafio%204.txt)
 5) [Desafio 5](https://github.com/rafaguerino/teste-Target/tree/main/src%202)
