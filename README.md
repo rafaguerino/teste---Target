@@ -1,6 +1,6 @@
 Desafios Target - Desafios de um etapa de incrição de candidato (Respostas no final, após as perguntas)
 
-OBS: Códigos executados em JAVA
+OBS: Códigos executados em JAVA 16
 
 1) Observe o trecho de código abaixo:
 
