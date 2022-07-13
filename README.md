@@ -81,4 +81,5 @@ b) Evite usar funções prontas, como, por exemplo, reverse;
 Respostas:
 
 1) 91
-2)
+2) [Desafio 2](https://github.com/rafaguerino/teste-Target/tree/main/src)
+3) 
