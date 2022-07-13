@@ -1,6 +1,6 @@
-<h3> Teste </h3>
+<h3> Desafios - Target </h3>
 
-Desafios Target - Desafios de um etapa de incrição de candidato (Respostas no final, após as perguntas)
+Desafios de uma etapa de incrição de candidato (Respostas no final, após as perguntas)
 
 OBS: Códigos executados em JAVA 16
 
