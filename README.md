@@ -83,10 +83,10 @@ Respostas:
 1) 91
 2) [Desafio 2](https://github.com/rafaguerino/teste-Target/tree/main/src)
 3) a) 1, 3, 5, 7, 13 <br>
-b) 2, 4, 8, 16, 32, 64, 128
-c) 0, 1, 4, 9, 16, 25, 36, 49
-d) 4, 16, 36, 64, 100
-e) 1, 1, 2, 3, 5, 8, 13
-f) 2,10, 12, 16, 17, 18, 19, 20
+b) 2, 4, 8, 16, 32, 64, 128 <br>
+c) 0, 1, 4, 9, 16, 25, 36, 49 <br>
+d) 4, 16, 36, 64, 100 <br>
+e) 1, 1, 2, 3, 5, 8, 13 <br>
+f) 2,10, 12, 16, 17, 18, 19, 20 <br>
 4) [Desafio 4](https://github.com/rafaguerino/teste-Target/blob/main/Desafio%204.txt)
 5) [Desafio 5](https://github.com/rafaguerino/teste-Target/tree/main/src%202)
